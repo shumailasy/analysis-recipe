@@ -1,3 +1,5 @@
+This is the recipe on how to clean the datasetin OpenRefine.
+
 
 Input files:
 - samples_openrefine_lesson.csv -- the messy dataset from the OpenRefine lesson 
